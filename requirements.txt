@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+Pillow
+# Зависимости для модели YOLOv8
+ultralytics
+# Зависимости для скриптов валидации
+pandas
+opencv-python
+tqdm
